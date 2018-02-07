@@ -1,0 +1,4 @@
+ClaseA
+{
+  Commit : 000
+}

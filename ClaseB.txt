@@ -1,0 +1,4 @@
+ClaseB
+{
+  Commit : 000
+}
